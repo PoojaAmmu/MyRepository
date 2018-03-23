@@ -1,3 +1,1 @@
-New changes of branch 1
-Changes in branch 2
-Hiiiiiii
+New File
